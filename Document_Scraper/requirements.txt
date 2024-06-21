@@ -1,0 +1,7 @@
+Install:
+hamcrest-core-1.3
+junit-4.13.2
+
+
+Docuemnts:
+any txt folder
